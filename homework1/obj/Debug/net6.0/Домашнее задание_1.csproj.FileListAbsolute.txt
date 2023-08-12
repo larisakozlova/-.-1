@@ -1,0 +1,15 @@
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\bin\Debug\net6.0\Домашнее задание_1.exe
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\bin\Debug\net6.0\Домашнее задание_1.deps.json
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\bin\Debug\net6.0\Домашнее задание_1.runtimeconfig.json
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\bin\Debug\net6.0\Домашнее задание_1.dll
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\bin\Debug\net6.0\Домашнее задание_1.pdb
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\obj\Debug\net6.0\Домашнее задание_1.csproj.AssemblyReference.cache
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\obj\Debug\net6.0\Домашнее задание_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\obj\Debug\net6.0\Домашнее задание_1.AssemblyInfoInputs.cache
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\obj\Debug\net6.0\Домашнее задание_1.AssemblyInfo.cs
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\obj\Debug\net6.0\Домашнее задание_1.csproj.CoreCompileInputs.cache
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\obj\Debug\net6.0\Домашнее задание_1.dll
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\obj\Debug\net6.0\refint\Домашнее задание_1.dll
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\obj\Debug\net6.0\Домашнее задание_1.pdb
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\obj\Debug\net6.0\Домашнее задание_1.genruntimeconfig.cache
+C:\Users\laris\Desktop\homework1\Домашнее задание_1\obj\Debug\net6.0\ref\Домашнее задание_1.dll
